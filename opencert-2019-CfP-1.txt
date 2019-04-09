@@ -247,6 +247,7 @@ PROGRAM COMMITTEE (provisional)
 * Steve Reeves Department of Computing and Mathematical Sciences, University of
   Waikato, New Zealand
 * Mona Rizvi, Department of Computer Science, Nazarbayev University, Kazakhstan
+* Markus Roggenbach, Department of Computer Science, Swansea University, UK
 * Ioannis Stamelos, School of Informatics, Aristotle University of Thessaloniki,
   Greece
 * Sulayman Sowe, Department of Informatics, Carl von Ossietzky University of
