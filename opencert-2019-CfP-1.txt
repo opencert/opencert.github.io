@@ -252,6 +252,8 @@ PROGRAM COMMITTEE (provisional)
   Greece
 * Sulayman Sowe, Department of Informatics, Carl von Ossietzky University of
   Oldenburg, Germany
+* Anthony Wasserman, Integrated Innovation Institutre,
+  Carnegie Mellon University Silicon Valley, USA
 
 -----------------------------------------------------------------------------------
 KEYNOTE SPEAKER
