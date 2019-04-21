@@ -236,6 +236,7 @@ PROGRAM COMMITTEE (provisional)
   University of Lisboa, Portugal
 * Michela Fazzolari, Institute for Informatics and Telematics (CNR-IIT), Italy
 * Roberta Gori, Department of Computer Science, University of Pisa, Italy
+* Padmanabhan Krishnan, Oracle Labs, Australia
 * Andreas Meiszner, Scio, Portugal, and School of Management, University of
   Liverpool, UK
 * Paolo Milazzo, Department of Computer Science, University of Pisa, Italy
