@@ -225,6 +225,7 @@ PROGRAM COMMITTEE (provisional)
 * Marco C. Barbosa, Department of Computing Engineering, Universidad Federal de
   Tecnologia do Paraná, Brazil
 * Leonor Barroca, School of Computing and Communication, Open University, UK
+* Peter T. Breuer, Hecusys LLC, USA
 * F. Heron Carvalho Júnior, Department of Computing, Universidad Federal do Ceará,
   Brazil
 * Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
@@ -242,6 +243,8 @@ PROGRAM COMMITTEE (provisional)
 * Paolo Milazzo, Department of Computer Science, University of Pisa, Italy
 * Renato Neves, Department of Computer Science, University of Minho, Portugal
 * Donatella Persico, Institute for Educational Technologies (CNR-ITD), Italy
+* Alexander K. Petrenko, Institute for System Programming,
+  Russian Academy of Sciences (ISP RAS), Russia
 * Marinella Petrocchi, Institute for Informatics and Telematics (CNR-IIT), Italy
 * Maria Helena Martinho, School of Education, University of Minho, Portugal
 * Lucia Rapanotti, School of Computing and Communication, Open University, UK
