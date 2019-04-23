@@ -226,11 +226,13 @@ PROGRAM COMMITTEE (provisional)
   Tecnologia do Paraná, Brazil
 * Leonor Barroca, School of Computing and Communication, Open University, UK
 * Peter T. Breuer, Hecusys LLC, USA
+* Daniel Burgos, Universidad Internacional de La Rioja (UNIR), Spain
 * F. Heron Carvalho Júnior, Department of Computing, Universidad Federal do Ceará,
   Brazil
 * Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
   (Program Co-chair)
 * Soumaya ben Dhaou, UNU-EGOV, United Nations University, UN
+* Yannis Dimitriadis, School of Telecomunications Engineering, University of Valladolid, Spain
 * Elsa Estevez, Department of Science and Computer Engineering, Universidad
   Nacional del Sur, Argentina
 * João F. Ferreira, IST, Department of Electrotechnical and Computer Engineering,
