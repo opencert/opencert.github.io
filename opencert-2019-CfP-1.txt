@@ -231,6 +231,7 @@ PROGRAM COMMITTEE (provisional)
   Brazil
 * Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
   (Program Co-chair)
+* Stefano De Paoli, Sociology Division, Abertay University, UK
 * Soumaya ben Dhaou, UNU-EGOV, United Nations University, UN
 * Yannis Dimitriadis, School of Telecomunications Engineering, University of Valladolid, Spain
 * Elsa Estevez, Department of Science and Computer Engineering, Universidad
