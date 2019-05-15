@@ -232,7 +232,7 @@ PROGRAM COMMITTEE (provisional)
   (Program Co-chair)
 * Stefano De Paoli, Sociology Division, Abertay University, UK
 * Soumaya ben Dhaou, UNU-EGOV, United Nations University, UN
-* Yannis Dimitriadis, School of Telecomunications Engineering, University of Valladolid, Spain
+* Yannis Dimitriadis, School of Telecommunications Engineering, University of Valladolid, Spain
 * Elsa Estevez, Department of Science and Computer Engineering, Universidad
   Nacional del Sur, Argentina
 * João F. Ferreira, IST, Department of Electrotechnical and Computer Engineering,
@@ -260,7 +260,7 @@ PROGRAM COMMITTEE (provisional)
   Greece
 * Sulayman Sowe, Department of Informatics, Carl von Ossietzky University of
   Oldenburg, Germany
-* Anthony Wasserman, Integrated Innovation Institutre,
+* Anthony Wasserman, Integrated Innovation Institute,
   Carnegie Mellon University Silicon Valley, USA
 
 -----------------------------------------------------------------------------------
