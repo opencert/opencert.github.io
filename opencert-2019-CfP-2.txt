@@ -288,4 +288,4 @@ CONTACT
 -----------------------------------------------------------------------------------
 
 All inquiries concerning submissions should be sent to 
-opencert2019 AT easychair AT org
+opencert2019 AT easychair DOT org
