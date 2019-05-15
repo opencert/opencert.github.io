@@ -115,7 +115,8 @@ Contributions will be in the form of
 
 * FULL PAPERS between 12 and 15 pages for submission (and between 12 and 16 pages
   for post-proceedings camera-ready).
-* SHORT PAPERS between 6 and 8 pages for submission.
+* SHORT PAPERS between 6 and 8 pages for submission (and between 6 and 9 pages
+  for post-proceedings camera-ready).
 * PRESENTATIONS extended abstract up to 4 pages, which will be included in the
   pre-proceeding but not published in the post-proceedings.
 
@@ -134,8 +135,9 @@ and the review process will be carried out as an interactive, open discussion
 between the authors and the reviewers. Final decisions about acceptance/rejection
 of papers will be made through a closed discussion among the PC members.
 Notification and reviews will be communicated via email.
-Accepted papers will be included in the workshop programme and will appear in the
-workshop pre-proceedings.
+Accepted papers (both "Regular papers" and "Short papers") will be included in the
+workshop programme and will appear in the workshop pre-proceedings as well as in
+the LNCS post-proceedings.
 Pre-proceedings will be available online before the Workshop.
 
 -----------------------------------------------------------------------------------
