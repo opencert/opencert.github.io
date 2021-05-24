@@ -1,0 +1,171 @@
+body{
+	font-family: Times New Roman;
+        background-color: #ffffff
+}
+
+body.home{
+        background-image: url(marsa.jpg);
+        background-repeat: no-repeat
+}
+
+a.link {
+   font-family: Times New Roman;
+   color:  #000099;
+   text-decoration: underline
+}
+
+a.biglink {
+   font-family: Times New Roman;
+   color:  #000099;
+   font-size: 20pt;
+   text-decoration: underline
+}
+
+a.biglink-inactive {
+   font-family: Times New Roman;
+   color:  #FFFF99;
+   font-size: 20pt
+}
+
+#big-bright-on-dark {
+        color: #ffffff;
+        background-color: #000099;
+        font-size: 20pt;
+        font-weight: bold
+}
+
+#big-warning {
+        color: #000000;
+        background-color: #FFFF00;
+        font-size: 20pt;
+        font-weight: bold
+}
+
+#bright-on-dark {
+        color: #ffffff;
+        background-color: #000099;
+        font-size: 18pt;
+        font-weight: bold
+}
+
+#small-bright-on-dark {
+        color: #ffffff;
+        background-color: #000099;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-grey-on-dark {
+        color: #cccccc;
+        background-color: #000099;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-red-on-dark {
+        color: #dd0000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-dark-on-bright {
+        color: #000099;
+        background-color: #eeeeff;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#big-dark {
+        color: #000099;
+        font-size: 24pt;
+        font-weight: bold
+}
+
+#dark {
+        color: #000099;
+        font-size: 18pt;
+        font-weight: bold
+}
+
+#black {
+        color: #000000;
+        font-size: 18pt;
+        font-weight: bold
+}
+
+#small-dark {
+        color: #000099;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+#small-black {
+        color: #000000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+p.text, ul.text, ol.text, dl.text, td.text {
+        color: #000000;
+        font-size: 14pt;
+}
+
+strong.text  {
+        color: #000000;
+        font-size: 14pt;
+        font-weight: bold
+}
+
+strong.very  {
+        color: #000099;
+}
+
+p.big, ul.big, td.big  {
+        color: #000000;
+        font-size: 18pt;
+        font-weight: bold
+}
+
+td.menu-link {
+        background-color: #000099;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+a.menu-link {
+        color: #ffffff;
+}
+
+td.menu-curr {
+        color: #ffff88;
+        background-color: #000099;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+td.menu-next {
+        color: #aa0000;
+        background-color: #000099;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+td.menu-past {
+        background-color: #000099;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+a.menu-past {
+        color: #cccccc;
+}
+
+td.menu-spec {
+        background-color: #ffffff;
+        font-size: 16pt;
+        font-weight: bold
+}
+
+a.menu-spec {
+        color: #000099;
+}
