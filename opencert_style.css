@@ -21,9 +21,22 @@ a.biglink {
    text-decoration: underline
 }
 
+a.biglink-inactive {
+   font-family: Times New Roman;
+   color:  #FFFF99;
+   font-size: 20pt
+}
+
 #big-bright-on-dark {
         color: #ffffff;
         background-color: #000099;
+        font-size: 20pt;
+        font-weight: bold
+}
+
+#big-warning {
+        color: #000000;
+        background-color: #FFFF00;
         font-size: 20pt;
         font-weight: bold
 }
