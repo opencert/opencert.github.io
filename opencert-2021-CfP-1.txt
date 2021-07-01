@@ -226,16 +226,6 @@ PROGRAM CO-CHAIRS
   Sapienza University Rome, Italy (Program Co-chair)
 
 -----------------------------------------------------------------------------------
-PROGRAM COMMITTEE (provisional)
------------------------------------------------------------------------------------
-
-* Antonio Cerone, Department of Computer Science, Nazarbayev University, Kazakhstan
-  (Program Co-chair)
-* Marco Temperini, Department of Computer, Control, and Management Engineering,
-  Sapienza University Rome, Italy (Program Co-chair)
-
-
------------------------------------------------------------------------------------
 KEYNOTE SPEAKER
 -----------------------------------------------------------------------------------
 
