@@ -26,8 +26,8 @@ Satellite event of SEFM 2021 (https://sefm-conference.github.io)
 
 -----------------------------------------------------------------------------------
 Submission link https://easychair.org/conferences/?conf=opencert2021
-Paper Abstract Submission suggested deadline: Friday, 24 September 2021
-PAPER SUBMISSION DEADLINE: Friday, 1 October 2021
+Paper Abstract Submission suggested deadline: Friday, 8 October 2021 (EXTENDED)
+PAPER SUBMISSION DEADLINE: Friday, 15 October 2021 (EXTENDED)
 -----------------------------------------------------------------------------------
 
 The concept of Open Community extends the idea of Open Source to other
