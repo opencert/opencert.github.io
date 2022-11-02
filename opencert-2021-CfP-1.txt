@@ -15,14 +15,14 @@ Open Community approaches to Education, Research and Technology
 
 https://opencert.github.io
 
-Friday, 10 March 2023, Lübeck, Germany
+Date to be decided
 
-Satellite event of FM 2023 (https://fm2023.isp.uni-luebeck.de/)
+Satellite event of SEFM 2023 (https://sefm-conference.github.io)
  
 
 -----------------------------------------------------------------------------------
 Submission link https://easychair.org/conferences/?conf=opencert2023
-PAPER SUBMISSION DEADLINE: Friday, 6 January 2023
+PAPER SUBMISSION DEADLINE: TBA
 -----------------------------------------------------------------------------------
 
 The concept of Open Community extends the idea of Open Source to other
